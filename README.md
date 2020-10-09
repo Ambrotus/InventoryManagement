@@ -1,6 +1,5 @@
 # InventoryManagement
-An inventory management application with functioning customer orders.
-Developed a C++ application that simulates an assembly line of customer orders to be
-filled from available inventory.
-● Allow the program to read and display data stored in text files
-● Customer orders and status updated in real time based on available inventory
+
+Developed a C++ application that simulates the completion of customer orders from the available warehouse stock.
+
+The order status and remaining inventory are maintained in real time with permanent file storage.
